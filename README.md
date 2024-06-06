@@ -13,7 +13,7 @@ LinkedIn: https://www.linkedin.com/in/ann-margaret-silva/ \
 Email: annmargaret.silva@gmail.com
 
 ⚡ Fun fact \
-I like being challenged, and I like learning a lot of things specially tech stuff 
+I like being challenged, and I like learning a lot of things especially artificial intelligence 
 
 📃 My Top Programming Languages
 - Python
